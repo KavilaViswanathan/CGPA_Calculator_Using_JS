@@ -40,8 +40,12 @@ This project is a simple CGPA (Cumulative Grade Point Average) calculator implem
    ```bash
    git clone https://github.com/KavilaViswanathan/CGPA-Calculator.git
 
+## output
 
    ![image](https://github.com/KavilaViswanathan/CGPA_Calculator_Using_JS/assets/140960627/2ebd379d-4381-4a60-a8d9-3495fa9abc1f)
 
+## Conclusion
+
+The CGPA Calculator project provides a convenient and user-friendly tool for students to calculate their Cumulative Grade Point Average. With features like dynamic course addition and removal, the calculator accommodates various academic scenarios.
 
    
