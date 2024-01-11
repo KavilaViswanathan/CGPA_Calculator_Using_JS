@@ -6,6 +6,7 @@ This project is a simple CGPA (Cumulative Grade Point Average) calculator implem
 
 ## Table of Contents
 
+- [Introduction](Introduction)
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Technologies Used](#technologies-used)
@@ -13,6 +14,11 @@ This project is a simple CGPA (Cumulative Grade Point Average) calculator implem
 - [Getting Started](#getting-started)
 - [Output](#output)
 - [Conclusion](#conclusion)
+
+## Introduction
+
+The CGPA Calculator project is a web-based application designed to assist students in computing their Cumulative Grade Point Average (CGPA). The tool is implemented using HTML, CSS, and JavaScript, providing a straightforward and interactive interface for users to input their course details and obtain their overall CGPA.
+
   
 ## Features
 
@@ -29,7 +35,7 @@ This project is a simple CGPA (Cumulative Grade Point Average) calculator implem
    - Use the "Del Course" button to remove the last added course.
 
 2. **Calculate CGPA:**
-   - Click the "Calculate GPA" button to compute the overall CGPA based on the entered grades and credit hours.
+   - Click the "Calculate CGPA" button to compute the overall CGPA based on the entered grades and credit hours.
    - The calculated CGPA will be displayed below the button.
 
 ## Technologies Used
