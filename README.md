@@ -4,6 +4,16 @@
 
 This project is a simple CGPA (Cumulative Grade Point Average) calculator implemented in HTML, CSS, and JavaScript. It allows students to input their course grades and credit hours to calculate their overall CGPA.
 
+## Table of Contents
+
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Technologies Used](#technologies-used)
+- [File Structure](#file-structure)
+- [Getting Started](#getting-started)
+- [Output](#output)
+- [Conclusion](#conclusion)
+  
 ## Features
 
 - Calculate CGPA based on grades and credit hours.
