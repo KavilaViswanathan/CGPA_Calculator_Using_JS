@@ -38,4 +38,4 @@ This project is a simple CGPA (Cumulative Grade Point Average) calculator implem
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/CGPA-Calculator.git
+   git clone https://github.com/KavilaViswanathan/CGPA-Calculator.git
