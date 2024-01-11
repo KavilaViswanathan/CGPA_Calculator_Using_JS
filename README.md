@@ -31,8 +31,8 @@ This project is a simple CGPA (Cumulative Grade Point Average) calculator implem
 ## File Structure
 
 - `index.html`: Contains the HTML structure for the CGPA calculator.
-- `exp4a.css`: Stylesheet for styling the calculator.
-- `exp4a.js`: JavaScript file containing the logic for adding, removing courses, and calculating CGPA.
+- `CGPA calculator.css`: Stylesheet for styling the calculator.
+- `CGPA calculator.ja`: JavaScript file containing the logic for adding, removing courses, and calculating CGPA.
 
 ## Getting Started
 
