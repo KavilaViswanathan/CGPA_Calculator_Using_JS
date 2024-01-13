@@ -46,7 +46,7 @@ The CGPA Calculator project is a web-based application designed to assist studen
 
 ## File Structure
 
-- `index.html`: Contains the HTML structure for the CGPA calculator.
+- `CGPA calculator.html`: Contains the HTML structure for the CGPA calculator.
 - `CGPA calculator.css`: Stylesheet for styling the calculator.
 - `CGPA calculator.ja`: JavaScript file containing the logic for adding, removing courses, and calculating CGPA.
 
